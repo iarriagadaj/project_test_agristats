@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Base de Datos Agristats V20230124 - copia.Dataset"
+    },
+    "byConnection": null
+  }
+}

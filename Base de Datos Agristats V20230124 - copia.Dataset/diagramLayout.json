@@ -1,0 +1,322 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 509.29698771423944
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1061.228919633063,
+            "y": 177.51503288578715
+          },
+          "nodeIndex": "Agristat dim_clmn",
+          "size": {
+            "height": 301.5774647887323,
+            "width": 234
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 1058.0048929214138,
+            "y": 542.72959129595074
+          },
+          "nodeIndex": "Agristat dim_mm_tm",
+          "size": {
+            "height": 347.13766469786458,
+            "width": 269.48387096774195
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 1058.768091270854,
+            "y": 964.65316415221537
+          },
+          "nodeIndex": "Agristat dim_run_group",
+          "size": {
+            "height": 218.3098591549296,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 1459.5031742836602,
+            "y": 12.905720269669548
+          },
+          "nodeIndex": "Agristat lgcy_report",
+          "size": {
+            "height": 356.4607797899493,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 1842.3727903377269,
+            "y": 82.973510743540118
+          },
+          "nodeIndex": "Agristat lgcy_sprog",
+          "size": {
+            "height": 263.43661971830988,
+            "width": 234
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 594.79452885663375,
+            "y": 573.23114956835616
+          },
+          "nodeIndex": "Agristat live_mm_fact",
+          "size": {
+            "height": 670.51028259032762,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 686.984024966842
+          },
+          "nodeIndex": "Agristat plnt_alias",
+          "size": {
+            "height": 297.50444677296832,
+            "width": 234
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 238.44683052913564,
+            "y": 871.30391723765888
+          },
+          "nodeIndex": "Maestra Indice",
+          "size": {
+            "height": 272.86155281962033,
+            "width": 234
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 588.35232852532067,
+            "y": 9.8805351661153686
+          },
+          "nodeIndex": "Maestra Vivo",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 1436.9917202365473,
+            "y": 648.63992522435478
+          },
+          "nodeIndex": "Dólar Banco central",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 1762.7403085626163,
+            "y": 590.58780589941614
+          },
+          "nodeIndex": "Agristat lot_mult_mm_fact",
+          "size": {
+            "height": 498.968084340445,
+            "width": 320.85114792638456
+          },
+          "zIndex": 24
+        },
+        {
+          "location": {
+            "x": 2200.7,
+            "y": 0
+          },
+          "nodeIndex": "Filtro Comparación",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 2564.5,
+            "y": 0
+          },
+          "nodeIndex": "Filtro Cascada",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 2997.2,
+            "y": 0
+          },
+          "nodeIndex": "Agristat live_mm_fact AGROSUPER AA",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 3348.2,
+            "y": 0
+          },
+          "nodeIndex": "Fechas de libros en SQL",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 3723.6,
+            "y": 0
+          },
+          "nodeIndex": "Dólar Banco central AA",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 4099,
+            "y": 0
+          },
+          "nodeIndex": "Dólar Banco central 2018 a 2020",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 4474.5,
+            "y": 0
+          },
+          "nodeIndex": "Dólar Banco central AA 2017 - 2020",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 86.1464048782857,
+            "y": 214.75920214524223
+          },
+          "nodeIndex": "Maestra Industrial",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 4838.3,
+            "y": 0
+          },
+          "nodeIndex": "Usuario",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 5202.1,
+            "y": 0
+          },
+          "nodeIndex": "OrdenIndice",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 5929.7,
+            "y": 0
+          },
+          "nodeIndex": "Orden Indice AA",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 5565.9,
+            "y": 0
+          },
+          "nodeIndex": "Indice Industrial Pollo",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 6293.5,
+            "y": 0
+          },
+          "nodeIndex": "Indice Industrial Cerdo",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 6657.3,
+            "y": 0
+          },
+          "nodeIndex": "Orden Indice AA CERDO",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 14
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 90,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}
